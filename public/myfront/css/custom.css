@@ -1,0 +1,55 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.rtl{
+    text-align: right;
+}
+.navbar-brand img{
+    width: 140px;
+}
+.why-text.price{
+    font-size: small;
+}
+
+.main-nav {
+    z-index: 999;
+    margin-top: 90px;
+}
+
+.img-fluid{
+    width: 100%;
+    height: 300px;
+}
+.name-product {
+    position: absolute;
+    top: 8px;
+    right: 0px;
+    padding: 1px 25px;
+    color: #fff;
+    font-size: 18px !important;
+    background: #000000b0;
+}
+.form-check{
+  /*   text-align: center; */
+}
+.form-check input{
+    width: 30px;
+    height:30px; 
+    margin: 2px;
+}
+
+.send-order{
+    width: 78%;
+    background-color: #fff;
+    z-index: 99;
+    position: fixed;
+    bottom: -17px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.send-order .btn{
+    width: 150px;
+
+}
